@@ -1,0 +1,30 @@
+.container {
+  margin: 0 auto;  
+  width: 750px;
+}
+
+.feature p{
+	margin: 0;
+	float: left;
+	width: 50%;
+}
+
+.feature2 p{
+	margin: 0;
+	padding: 0 auto;
+	float: right;
+	width: 50%;
+}
+
+.feature3 p{
+	margin: 0;
+	padding: 0 auto;
+	float: left;
+	width: 50%;
+}
+
+h4{
+	margin-bottom: 0;
+	margin-top: 30px;
+}
+
